@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33fb718d-8b9f-400d-86c0-7c74d009c58a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collector/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collector/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collector/src/main/python/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/collector/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collector/src/main/python/printerAndPrinterAccessories.py" beforeDir="false" afterPath="$PROJECT_DIR$/collector/printerAndPrinterAccessories.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collector/src/main/python/website.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collector/src/main/resources/printer-register.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/printer-monitor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/printer-monitor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,13 +35,21 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/collector" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1R4nOTmHiVqrUgSzDPJlNPwo9St" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\home\dtekeshe\github.com\network-monitor\printer-monitor\web" />
+      <recent name="C:\home\dtekeshe\github.com\network-monitor\printer-monitor\collector" />
+      <recent name="C:\home\dtekeshe\github.com\network-monitor\printer-monitor\model" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,7 +74,8 @@
       <option name="presentableId" value="Default" />
       <updated>1568935203226</updated>
       <workItem from="1568935204412" duration="21000" />
-      <workItem from="1568935257156" duration="1058000" />
+      <workItem from="1568935257156" duration="3664000" />
+      <workItem from="1568956867569" duration="614000" />
     </task>
     <servers />
   </component>
@@ -80,10 +87,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/collector" />
+    </ignored-roots>
   </component>
 </project>
