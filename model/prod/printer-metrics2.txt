@@ -1,0 +1,5 @@
+# DML
+# CONTEXT-DATABASE: ebridge
+printer,agent_host=195.1.1.93,hrDeviceDescr=NPI059436 sysUpTime=151647,prtCoverStatus=4,prtCoverDescription="door closed",prtMarkerLifeCount=151647,prtPowerCycleCount=12
+printer,agent_host=195.1.1.93 prtMarkerSuppliesDescription="Black Cartridge 14A HP CF214A",prtMarkerSuppliesLevel=36,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.93 prtMarkerSuppliesDescription="Maintenance Kit HP 110V-CF249A",prtMarkerSuppliesLevel=25,prtMarkerSuppliesMaxCapacity=100

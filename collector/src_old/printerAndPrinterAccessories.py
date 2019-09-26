@@ -50,6 +50,7 @@ class ProgressBarColor(Enum):
             if int(percent) in containedRange:
                 return color.name
 
+
 class PrinterSupply():
     def __init__(self, type, description, unit, maxLevel, currentLevel):
         self.type, self.unit = SupplyType.consumed, SupplyUnit.sheets
@@ -60,7 +61,10 @@ class PrinterSupply():
         self.description = description
         self.currentLevel = currentLevel
         self.maxLevel = maxLevel
-        self.percentLevel = 100 * float(currentLevel) / float(maxLevel)
+        try:
+            self.percentLevel = 100 * float(currentLevel) / float(maxLevel)
+        except TypeError:
+            self.percentLevel = 0
 
     def toHTMLProgressBar(self):
         percentLevel = 100 - self.percentLevel if self.type == SupplyType.filled else self.percentLevel # Inverse percentage if supply is filled
@@ -71,6 +75,7 @@ class PrinterSupply():
 
     def __str__(self):
         return "%s - %s%% - %s / %s %s - Type: %s" % (self.description, self.percentLevel, self.currentLevel, self.maxLevel, self.unit.name, self.type.name)
+
 
 class Printer():
     def __init__(self, ip, online, oids):

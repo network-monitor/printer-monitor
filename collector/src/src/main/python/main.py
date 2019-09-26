@@ -5,7 +5,8 @@ import pprint
 import time
 import socket
 import random
-from web.website import Website
+# from website import Website
+from influxImportFileWriter import InfluxImportFileWriter
 from pysnmp.hlapi import *
 from printerAndPrinterAccessories import *
 
@@ -99,9 +100,10 @@ def main():
             time.clock()
             scanned, successfullyScanned, printers = runScan(args.l)
             elapsedTime = "%d seconds" % (time.time() - startTime)
-            site = Website(scanned, successfullyScanned, printers, elapsedTime)
+            # site = Website(scanned, successfullyScanned, printers, elapsedTime)
+            importFile = InfluxImportFileWriter(scanned, successfullyScanned, printers, elapsedTime)
             with open(args.o, "w") as output:
-                output.write(str(site))
+                output.write(str(importFile))
             logger.info("Done! Results available in file: %s" % args.o)
             sys.exit(0)
         except IOError, e:

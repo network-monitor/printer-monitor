@@ -1,0 +1,74 @@
+{ 
+	[
+		{
+			"ipAddress":"195.1.1.213", 
+			"sysObjectID":".1.3.6.1.4.1.11.2.3.9.1",
+			"name":"NPIE08D9E",
+			"description":"HP ETHERNET MULTI-ENVIRONMENT,SN:VNBKKBS4YH,FN:1N902RS,SVCID:28022,PID:HP Color LaserJet MFP M477fdw"
+		},
+		{
+			"ipAddress":"195.1.1.93", 
+			"sysObjectID":".1.3.6.1.4.1.11.2.3.9.1",
+			"name":"NPI059436",
+			"description":"HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI22210020,CIDATE 11/22/2012"
+		},
+		{
+			"ipAddress":"195.1.1.201", 
+			"sysObjectID":"	.1.3.6.1.4.1.11.2.3.9.1",
+			"name":"NPI24AE3F",
+			"description":"HP ETHERNET MULTI-ENVIRONMENT,SN:VNBKK5R1JL,FN:1N86YPX,SVCID:27221,PID:HP Color LaserJet MFP M477fdw"
+		},
+		{
+			"ipAddress":"195.1.1.224", 
+			"sysObjectID":".1.3.6.1.4.1.11.2.3.9.1",
+			"name":"NPI24AE3F",
+			"description":"HP ETHERNET MULTI-ENVIRONMENT,SN:VNBKK5R1JL,FN:1N86YPX,SVCID:27221,PID:HP Color LaserJet MFP M477fdw"
+		},
+		{
+			"ipAddress":"195.1.1.200", 
+			"sysObjectID":".1.3.6.1.4.1.11.2.3.9.1",
+			"name":"NPI24AE42",
+			"description":"HP ETHERNET MULTI-ENVIRONMENT,SN:VNBKK5R1JY,FN:1N86YQ0,SVCID:27214,PID:HP Color LaserJet MFP M477fdw"
+		},
+		{
+			"ipAddress":"195.1.1.231", 
+			"sysObjectID":".1.3.6.1.4.1.11.2.3.9.1",
+			"name":"NPI24AE42",
+			"description":"HP ETHERNET MULTI-ENVIRONMENT,SN:VNBKK5R1JY,FN:1N86YQ0,SVCID:27214,PID:HP Color LaserJet MFP M477fdw"
+		},
+		{
+			"ipAddress":"195.1.1.244", 
+			"sysObjectID":".1.3.6.1.4.1.11.2.3.9.1",
+			"name":"NPI24AE42",
+			"description":"HP ETHERNET MULTI-ENVIRONMENT,SN:VNBKK5R1JY,FN:1N86YQ0,SVCID:27214,PID:HP Color LaserJet MFP M477fdw"
+		},
+		{
+			"ipAddress":"195.1.1.233", 
+			"sysObjectID":".1.3.6.1.4.1.11.2.3.9.1",
+			"name":"NPIE23797",
+			"node":"NPI24AE42",
+			"description":"HP ETHERNET MULTI-ENVIRONMENT,SN:VNCKM333BK,FN:1NA4XS4,SVCID:29162,PID:HP Color LaserJet MFP M477fdw"
+		},
+		{
+			"ipAddress":"195.1.1.220", 
+			"sysObjectID":"	.1.3.6.1.4.1.11.2.3.9.1",
+			"name":"NPI30C738",
+			"node":"NPI30C738",
+			"description":"HP ETHERNET MULTI-ENVIRONMENT,SN:VNBKL4944M,FN:1N96Y47,SVCID:28168,PID:HP Color LaserJet MFP M477fdw"
+		},
+		{
+			"ipAddress":"195.1.1.222", 
+			"sysObjectID":".1.3.6.1.4.1.11.2.3.9.1",
+			"name":"NPI30C738",
+			"node":"NPI30C738",
+			"description":"HP ETHERNET MULTI-ENVIRONMENT,SN:VNBKL4944M,FN:1N96Y47,SVCID:28168,PID:HP Color LaserJet MFP M477fdw"
+		},
+		{
+			"ipAddress":"195.1.1.243", 
+			"sysObjectID":".1.3.6.1.4.1.11.2.3.9.1",
+			"name":"NPI30C738",
+			"node":"NPI30C738",
+			"description":"HP ETHERNET MULTI-ENVIRONMENT,SN:VNBKL4944M,FN:1N96Y47,SVCID:28168,PID:HP Color LaserJet MFP M477fdw"
+		}
+	] 
+} 

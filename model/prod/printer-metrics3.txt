@@ -1,0 +1,15 @@
+# DML
+# CONTEXT-DATABASE: ebridge
+printer,agent_host=195.1.1.224,hrDeviceDescr=NPI24AE3F sysUpTime=1770,prtCoverStatus=4,prtCoverDescription="door closed",prtMarkerLifeCount=1770,prtPowerCycleCount=12
+printer,agent_host=195.1.1.224 prtMarkerSuppliesDescription="Black Cartridge HP CF410A",prtMarkerSuppliesLevel=30,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.224 prtMarkerSuppliesDescription="Cyan Cartridge HP CF411A",prtMarkerSuppliesLevel=12,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.224 prtMarkerSuppliesDescription="Magenta Cartridge HP CF413A",prtMarkerSuppliesLevel=28,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.224 prtMarkerSuppliesDescription="Yellow Cartridge HP CF412A",prtMarkerSuppliesLevel=15,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.215,hrDeviceDescr=NPI6A0B49 sysUpTime=1770,prtCoverStatus=4,prtCoverDescription="door closed",prtMarkerLifeCount=1770,prtPowerCycleCount=12
+printer,agent_host=195.1.1.215 prtMarkerSuppliesDescription="Black Cartridge 14A HP CF214A",prtMarkerSuppliesLevel=25,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.215 prtMarkerSuppliesDescription="Maintenance Kit HP 110V-CF249A 220V-CF254A",prtMarkerSuppliesLevel=2,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.8,hrDeviceDescr=NPIA86D46 sysUpTime=105571,prtCoverStatus=4,prtCoverDescription="door closed",prtMarkerLifeCount=105571,prtPowerCycleCount=71
+printer,agent_host=195.1.1.8 prtMarkerSuppliesDescription="Black Cartridge 25X HP CF325X",prtMarkerSuppliesLevel=25,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.8 prtMarkerSuppliesDescription="Maintenance Kit HP 110V-CF249A 220V-CF254A",prtMarkerSuppliesLevel=42,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.184,hrDeviceDescr=NPIDED62A sysUpTime=3276,prtCoverStatus=4,prtCoverDescription="door closed",prtMarkerLifeCount=3276,prtPowerCycleCount=28
+printer,agent_host=195.1.1.184 prtMarkerSuppliesDescription="Black Cartridge HP CF283A",prtMarkerSuppliesLevel=47,prtMarkerSuppliesMaxCapacity=100

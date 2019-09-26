@@ -1,0 +1,7 @@
+printer,agent_host=195.1.1.233,hrDeviceDescr=NPIE23797 sysUpTime=64500,prtCoverStatus=4, \
+prtCoverDescription=\"door closed\",prtMarkerLifeCount=313,prtPowerCycleCount=12
+printer,agent_host=195.1.1.233,prtMarkerSuppliesDescription="Black Cartridge HP CF410A",prtMarkerSuppliesLevel=85.0,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.233,prtMarkerSuppliesDescription="Cyan Cartridge HP CF411A",prtMarkerSuppliesLevel=83.0,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.233,prtMarkerSuppliesDescription="Magenta Cartridge HP CF413A",prtMarkerSuppliesLevel=87.0,prtMarkerSuppliesMaxCapacity=100
+printer,agent_host=195.1.1.233,prtMarkerSuppliesDescription="Yellow Cartridge HP CF412A",prtMarkerSuppliesLevel=87.0,prtMarkerSuppliesMaxCapacity=100
+
